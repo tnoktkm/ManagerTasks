@@ -56,3 +56,4 @@ nunit-*.xml
 /.vs/ManagerTasks/CopilotIndices
 *.cs text=auto
 /.vs/ManagerTasks/copilot-chat
+/.vs
