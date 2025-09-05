@@ -1,1 +1,3 @@
-#Enjoy code of ManagerTasks
+# Enjoy code of ManagerTasks
+
+*CRM system for small and medium businesses.*
