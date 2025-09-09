@@ -13,7 +13,7 @@ namespace ManagerTasks.Controllers
 
         public IActionResult Index()
         {
-            var tasks = _taskService.GetAllTasks();
+            var tasks = _taskService.GetAllTasks().First();
             return View(tasks);
         }
     }
